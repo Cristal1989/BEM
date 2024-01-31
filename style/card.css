@@ -83,7 +83,7 @@ a {
 .product__img {
   width: 220px;
   height: 220px;
-  margin-bottom: 10px;
+  margin-bottom: 35px;
   background-color: #fff;
 }
 
@@ -158,8 +158,7 @@ a {
   font-weight: 500;
   line-height: normal;
   letter-spacing: 2.1px;
-  margin-bottom: 5px;
-  text-align: center;
+  margin-bottom: 3px;
 }
 
 .product__item h5 {
@@ -176,22 +175,19 @@ a {
   border-radius: 8px;
   width: 100px;
   height: 30px;
-  margin-left: 65px;
+
   text-align: center;
   padding-top: 3px;
   background-color: rgba(96, 100, 100, 0.2);
-  text-align: center;
 }
 
 .product__item h6 {
   color: #111;
-  text-align: center;
   font-family: "Open Sans";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   letter-spacing: 0.28px;
-  margin-bottom: 15px;
-  text-align: center;
+  margin-bottom: 8px;
 }
