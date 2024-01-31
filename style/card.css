@@ -74,8 +74,8 @@ a {
 }
 
 .product__img {
-  width: 350px;
-  height: 350px;
+  width: 220px;
+  height: 220px;
   margin-bottom: 10px;
   background-color: #fff;
 }
@@ -138,8 +138,8 @@ a {
   transition: 0.5s ease-out;
   overflow: visible;
 
-  width: 410px;
-  height: 550px;
+  width: 300px;
+  height: 410px;
 }
 
 .product__item h3 {
